@@ -13,7 +13,7 @@ This is a React Native application built with Expo to showcase the UI for an onl
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/quad400/package-tracker.git
 cd package-tracker
 ```
 
